@@ -1,8 +1,8 @@
 
 # Davis Greenfield
 ## Speaker, Voice Potential
-#### _Equipping people who think they’re not good at writing, but actually are._
-### Experience 
+####  _Equipping people who think they’re not good at writing, but actually are._
+### Experience
 #### 2023 - Current
 #### _Voice Potential_
 My main role is in the area of public speaking. 
@@ -25,7 +25,6 @@ B.A. Social Science
 University of Humanities
 
 ### Skills
-
 -	Leadership
 - Efficience
 - Speaking Skills
