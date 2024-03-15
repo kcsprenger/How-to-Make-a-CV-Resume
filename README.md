@@ -32,10 +32,9 @@ University of Humanities
 - Managing Skills
   
 #### Contact
-
-...54 8th Street..
-...Queens County..
-...NYC, New York, USA..
-...1-800-*VOICE#..
-...Extension #: DAVIS..
+   54 8th Street  
+   Queens County  
+   NYC, New York, USA  
+   1-800-*VOICE#  
+   Extension #: DAVIS  
 
