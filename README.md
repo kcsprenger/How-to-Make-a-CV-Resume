@@ -1,4 +1,4 @@
-
+## Note: This is a fictional CV/Resume of a fictional person. It is a sample. For a more formatted version, refer to the Word document.
 # Davis Greenfield
 ## Speaker, Voice Potential
 ####  _Equipping people who think they’re not good at writing, but actually are._
